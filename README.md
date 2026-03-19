@@ -1,10 +1,6 @@
 # The Informational Dual of Stigmergic Transport
 ## CONCERT and Krishnan-Mahadevan (arXiv 2601.04111): Two Sides of the Same Mechanism
 
-[![Python 3.14.2](https://img.shields.io/badge/python-3.14.2-blue.svg)](https://python.org)
-[![arXiv](https://img.shields.io/badge/arXiv-2601.04111-red.svg)](https://arxiv.org/abs/2601.04111)
-[![Proofs: 8/8](https://img.shields.io/badge/proofs-8%2F8%20confirmed-green.svg)](#proof-results)
-
 > *"Stigmergic dynamics form a decentralized algorithm for geodesic discovery, with pheromone feedback implementing gradient descent on the traversal-time functional."*
 > — Krishnan & Mahadevan (arXiv 2601.04111)
 
